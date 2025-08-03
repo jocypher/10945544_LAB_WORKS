@@ -1,0 +1,5 @@
+Answer: 255
+
+Explanation:
+Since the pixel value (180) is greater than the threshold (150), it is set to 255 (white) in binary thresholding.
+Values below the threshold would be set to 0 (black).
